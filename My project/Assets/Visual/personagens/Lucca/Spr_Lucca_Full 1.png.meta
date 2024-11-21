@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: dbb1ec461a34ad64a8ad63147f5495df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 268680633594108939
+    second: Spr_Lucca_Full 1_0
+  - first:
+      213: 5186345854210679309
+    second: Spr_Lucca_Full 1_1
+  - first:
+      213: 1234432214100332070
+    second: Spr_Lucca_Full 1_2
+  - first:
+      213: -360875257889834588
+    second: Spr_Lucca_Full 1_3
+  - first:
+      213: 439972260029943329
+    second: Spr_Lucca_Full 1_4
+  - first:
+      213: 7663105435945213271
+    second: Spr_Lucca_Full 1_5
+  - first:
+      213: 5966309492804873987
+    second: Spr_Lucca_Full 1_6
+  - first:
+      213: 4106889884347037265
+    second: Spr_Lucca_Full 1_7
+  - first:
+      213: -8079640106132093702
+    second: Spr_Lucca_Full 1_8
+  - first:
+      213: 319658091868094398
+    second: Spr_Lucca_Full 1_9
+  - first:
+      213: 5541853515221216197
+    second: Spr_Lucca_Full 1_10
+  - first:
+      213: 8616332353641698782
+    second: Spr_Lucca_Full 1_11
+  - first:
+      213: 7257541472964540964
+    second: Spr_Lucca_Full 1_12
+  - first:
+      213: -4821227324611082692
+    second: Spr_Lucca_Full 1_13
+  - first:
+      213: 96053448728252751
+    second: Spr_Lucca_Full 1_14
+  - first:
+      213: -9082901275697665813
+    second: Spr_Lucca_Full 1_15
+  - first:
+      213: -2650727394180804962
+    second: Spr_Lucca_Full 1_16
+  - first:
+      213: 4789072727941815062
+    second: Spr_Lucca_Full 1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c576bdc9b8ab300800000000000000
+      internalID: 268680633594108939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022c82731a99f740800000000000000
+      internalID: 5186345854210679309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ecfb4fe85912110800000000000000
+      internalID: 1234432214100332070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 35
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bf3d6dd9edfaf0800000000000000
+      internalID: -360875257889834588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e4c1e70781b1600800000000000000
+      internalID: 439972260029943329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d11e90bc1d85a60800000000000000
+      internalID: 7663105435945213271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 34
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30feca27fd69cc250800000000000000
+      internalID: 5966309492804873987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567620379a9ef830800000000000000
+      internalID: 4106889884347037265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44ff8912a5fdf80800000000000000
+      internalID: -8079640106132093702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf70674757af6400800000000000000
+      internalID: 319658091868094398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 35
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba20cf86e98ec40800000000000000
+      internalID: 5541853515221216197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d485df9c539770800000000000000
+      internalID: 8616332353641698782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a77be7487f7b460800000000000000
+      internalID: 7257541472964540964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36462fca4f871db0800000000000000
+      internalID: -4821227324611082692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 35
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4116ea4a10455100800000000000000
+      internalID: 96053448728252751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8291cb96d03f180800000000000000
+      internalID: -9082901275697665813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec479aa79b63bd0800000000000000
+      internalID: -2650727394180804962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_Lucca_Full 1_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9b70c544367240800000000000000
+      internalID: 4789072727941815062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spr_Lucca_Full 1_0: 268680633594108939
+      Spr_Lucca_Full 1_1: 5186345854210679309
+      Spr_Lucca_Full 1_10: 5541853515221216197
+      Spr_Lucca_Full 1_11: 8616332353641698782
+      Spr_Lucca_Full 1_12: 7257541472964540964
+      Spr_Lucca_Full 1_13: -4821227324611082692
+      Spr_Lucca_Full 1_14: 96053448728252751
+      Spr_Lucca_Full 1_15: -9082901275697665813
+      Spr_Lucca_Full 1_16: -2650727394180804962
+      Spr_Lucca_Full 1_17: 4789072727941815062
+      Spr_Lucca_Full 1_2: 1234432214100332070
+      Spr_Lucca_Full 1_3: -360875257889834588
+      Spr_Lucca_Full 1_4: 439972260029943329
+      Spr_Lucca_Full 1_5: 7663105435945213271
+      Spr_Lucca_Full 1_6: 5966309492804873987
+      Spr_Lucca_Full 1_7: 4106889884347037265
+      Spr_Lucca_Full 1_8: -8079640106132093702
+      Spr_Lucca_Full 1_9: 319658091868094398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
