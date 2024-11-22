@@ -574,7 +574,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -588,7 +588,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -612,7 +612,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -4622,7 +4622,187 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TX Village Props-export_0: -5065267150278411497
+      TX Village Props-export_1: -4335730471519145084
+      TX Village Props-export_10: -8163034648632027666
+      TX Village Props-export_100: -2393849470845615761
+      TX Village Props-export_101: -5409999810099066658
+      TX Village Props-export_102: 8854859412811088116
+      TX Village Props-export_103: -3742214714718492680
+      TX Village Props-export_104: -6156182708282182788
+      TX Village Props-export_105: 113400365577004306
+      TX Village Props-export_106: -6805920292470617809
+      TX Village Props-export_107: 7330399254400072675
+      TX Village Props-export_108: -1344609970419015795
+      TX Village Props-export_109: 8740063264623377389
+      TX Village Props-export_11: 4721076216816808621
+      TX Village Props-export_110: -2863341020087287198
+      TX Village Props-export_111: 337057806737527419
+      TX Village Props-export_112: -7302659114165114666
+      TX Village Props-export_113: -6972711396829412236
+      TX Village Props-export_114: 465367901900370342
+      TX Village Props-export_115: 7093027284204603770
+      TX Village Props-export_116: 8750268445601090775
+      TX Village Props-export_117: -7659807144545490393
+      TX Village Props-export_118: 8308215379171685065
+      TX Village Props-export_119: 1949658867693584330
+      TX Village Props-export_12: -8756511772756556939
+      TX Village Props-export_120: -4419639336053784798
+      TX Village Props-export_121: 4642523970045466436
+      TX Village Props-export_122: 630375432037230814
+      TX Village Props-export_123: 3590615858959506527
+      TX Village Props-export_124: 2623917276170820392
+      TX Village Props-export_125: 8611886174293641474
+      TX Village Props-export_126: -8440974825369952474
+      TX Village Props-export_127: -5390749164577914003
+      TX Village Props-export_128: 3576551151859736187
+      TX Village Props-export_129: 3402316161538747883
+      TX Village Props-export_13: 9155165842518510787
+      TX Village Props-export_130: -6802665621433720525
+      TX Village Props-export_131: -6932515603184672245
+      TX Village Props-export_132: 5047801392375275927
+      TX Village Props-export_133: 4153247826297034258
+      TX Village Props-export_134: -4569910711551259667
+      TX Village Props-export_135: -3239553478426765583
+      TX Village Props-export_136: -972313262661445155
+      TX Village Props-export_137: -6458779201713178426
+      TX Village Props-export_138: -8073869849612608581
+      TX Village Props-export_139: 5729237620437366418
+      TX Village Props-export_14: 4027250778709249099
+      TX Village Props-export_140: -3545494885864742084
+      TX Village Props-export_141: 7747212141251259344
+      TX Village Props-export_142: 7847772458995782284
+      TX Village Props-export_143: -7898651974640036138
+      TX Village Props-export_144: -2249979202934160473
+      TX Village Props-export_145: 5770124555663086946
+      TX Village Props-export_146: 286112917409198025
+      TX Village Props-export_147: -6584910943261747451
+      TX Village Props-export_148: 121738195253811262
+      TX Village Props-export_149: 1079830849983313091
+      TX Village Props-export_15: -8675588797936317193
+      TX Village Props-export_150: 5620152383738297147
+      TX Village Props-export_151: 3535498606398973978
+      TX Village Props-export_152: -6801956279899827017
+      TX Village Props-export_153: 7487665370648152113
+      TX Village Props-export_154: 3995240805512331019
+      TX Village Props-export_155: -4794112350980628453
+      TX Village Props-export_156: 6833271192999479565
+      TX Village Props-export_157: 423846303927860043
+      TX Village Props-export_158: -4976646807693850687
+      TX Village Props-export_159: -8431152578035395569
+      TX Village Props-export_16: -7161728909810225662
+      TX Village Props-export_160: 2575776774586766181
+      TX Village Props-export_161: 2850117176046345479
+      TX Village Props-export_162: -2007613980050126598
+      TX Village Props-export_163: -1160191978315293460
+      TX Village Props-export_164: 4765705048325590398
+      TX Village Props-export_165: 4406829294913668598
+      TX Village Props-export_166: 2417913013560729134
+      TX Village Props-export_167: -3489337662465350186
+      TX Village Props-export_168: 4748936814557624325
+      TX Village Props-export_169: 4055210567240303818
+      TX Village Props-export_17: -1766734809716687846
+      TX Village Props-export_170: 2130685070407475455
+      TX Village Props-export_171: 5838647868386625895
+      TX Village Props-export_172: 3467186345938975669
+      TX Village Props-export_173: -403637900111585490
+      TX Village Props-export_174: -185467436258547252
+      TX Village Props-export_175: 5044769428588441320
+      TX Village Props-export_176: 5964927318341989797
+      TX Village Props-export_177: -25182258818691020
+      TX Village Props-export_178: 7801662467592682993
+      TX Village Props-export_179: -217718334956145881
+      TX Village Props-export_18: 4299011200196982197
+      TX Village Props-export_19: 4001401084975580997
+      TX Village Props-export_2: 5423269672326297141
+      TX Village Props-export_20: -556198876147316325
+      TX Village Props-export_21: -2610032340487951869
+      TX Village Props-export_22: -6380600333152717064
+      TX Village Props-export_23: -7181250287423387133
+      TX Village Props-export_24: -2974023625590474437
+      TX Village Props-export_25: -4568376529015877997
+      TX Village Props-export_26: -4489374792885953544
+      TX Village Props-export_27: 3438066089180933179
+      TX Village Props-export_28: 475225405485342727
+      TX Village Props-export_29: -7435566255325918992
+      TX Village Props-export_3: -2502165925038805101
+      TX Village Props-export_30: -3681847166513423701
+      TX Village Props-export_31: -651514608813789241
+      TX Village Props-export_32: -7196539626758983074
+      TX Village Props-export_33: 1070688633617616667
+      TX Village Props-export_34: -1790266335684612908
+      TX Village Props-export_35: -8191826347677671518
+      TX Village Props-export_36: 680515732156735321
+      TX Village Props-export_37: -2118711214555348395
+      TX Village Props-export_38: 2296851810224605897
+      TX Village Props-export_39: 1284055648127115321
+      TX Village Props-export_4: -2753521263785087355
+      TX Village Props-export_40: -578560181432044134
+      TX Village Props-export_41: 3150284357098359831
+      TX Village Props-export_42: 3459883728934319773
+      TX Village Props-export_43: 8307161586046036959
+      TX Village Props-export_44: 3725338894417288568
+      TX Village Props-export_45: 3983196349019760147
+      TX Village Props-export_46: 3711138185997841471
+      TX Village Props-export_47: 4190381720690077334
+      TX Village Props-export_48: -7514489599226747572
+      TX Village Props-export_49: 1405360261736903073
+      TX Village Props-export_5: 952403146197691373
+      TX Village Props-export_50: 8910878067333252296
+      TX Village Props-export_51: 3233606562845071949
+      TX Village Props-export_52: -4207751149886745875
+      TX Village Props-export_53: -344444056521437876
+      TX Village Props-export_54: 6146567897902710005
+      TX Village Props-export_55: 5916693685953623836
+      TX Village Props-export_56: 6662155933209395814
+      TX Village Props-export_57: -7845811043983834956
+      TX Village Props-export_58: 2565746163085139288
+      TX Village Props-export_59: 4393853712827195367
+      TX Village Props-export_6: -3899622663434414139
+      TX Village Props-export_60: 76690339339142092
+      TX Village Props-export_61: 5950634996950960587
+      TX Village Props-export_62: 3398170414417515186
+      TX Village Props-export_63: 2092850182355960275
+      TX Village Props-export_64: 2203921376100005472
+      TX Village Props-export_65: 1769926716557844110
+      TX Village Props-export_66: 8972647405426242331
+      TX Village Props-export_67: 6457851781988015593
+      TX Village Props-export_68: 272898484909036853
+      TX Village Props-export_69: -9138934792190876368
+      TX Village Props-export_7: 1802305814354373089
+      TX Village Props-export_70: -5188097574946891273
+      TX Village Props-export_71: 8254544937233123136
+      TX Village Props-export_72: -3399854644155614629
+      TX Village Props-export_73: -1376103905213372068
+      TX Village Props-export_74: -1436624986870939343
+      TX Village Props-export_75: 7152300054728251894
+      TX Village Props-export_76: 1103848583042002797
+      TX Village Props-export_77: 6148476676017896424
+      TX Village Props-export_78: 915631128657727087
+      TX Village Props-export_79: 5580871373364078895
+      TX Village Props-export_8: 8742049036277763605
+      TX Village Props-export_80: -1039660697201830057
+      TX Village Props-export_81: 1324207256939394108
+      TX Village Props-export_82: 5140991827164485132
+      TX Village Props-export_83: -5625439369817065526
+      TX Village Props-export_84: 2059260196953398908
+      TX Village Props-export_85: -2739387636067777772
+      TX Village Props-export_86: -2032771801362126288
+      TX Village Props-export_87: -3499357965814671498
+      TX Village Props-export_88: 5433978004064846805
+      TX Village Props-export_89: -184962413197883944
+      TX Village Props-export_9: 6234787970221916744
+      TX Village Props-export_90: -3591104096350224121
+      TX Village Props-export_91: -2131690337237904205
+      TX Village Props-export_92: -4227469272025237204
+      TX Village Props-export_93: -4170171076712195286
+      TX Village Props-export_94: -6573516293678231073
+      TX Village Props-export_95: 1380159282687198655
+      TX Village Props-export_96: -6659956264185628857
+      TX Village Props-export_97: 5630129562050355182
+      TX Village Props-export_98: 3127417189211869184
+      TX Village Props-export_99: 5549111801026779327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
